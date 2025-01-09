@@ -7,7 +7,7 @@ int main()
     cin >> a >> b >> c;
 
     int i = 1;
-    while (i < 100)
+    while (c <= b)
     {
         c = c * i;
         if (a <= c && c <= b)
