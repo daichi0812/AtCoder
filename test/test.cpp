@@ -2,8 +2,8 @@
 using namespace std;
 
 int main(){
-    string s = "abc";
-    string t = "def";
+    int a = 1;
+    a = a / 10;
 
-    cout << s + t << endl;
+    cout << a << endl;
 }
