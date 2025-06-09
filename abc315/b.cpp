@@ -11,13 +11,13 @@ int main(){
         cin >> d[i];
         totalDays += d[i];
     }
-    int half = totalDays / 2;
+    int half = (totalDays + 1) / 2;
     int a = 0;
     int b = 0;
     rep(i, m){
         if(d[i] >= half){
             a = i + 1;
-            b = half + 1;
+            b = half;
             break;
         }
         half -= d[i];
