@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/daichi/dev-hub/atcoder/abc318",
-      "program": "/Users/daichi/dev-hub/atcoder/abc318/build/Debug/outDebug"
+      "cwd": "/Users/daichi/dev-hub/atcoder/abc319",
+      "program": "/Users/daichi/dev-hub/atcoder/abc319/build/Debug/outDebug"
     }
   ]
 }
